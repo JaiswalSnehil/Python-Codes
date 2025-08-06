@@ -7,4 +7,5 @@ def pattern(n):
                 print(0,end='')
         print()
 
-print(pattern(5), end='')
+# Example
+pattern(5)

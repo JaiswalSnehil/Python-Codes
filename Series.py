@@ -1,4 +1,4 @@
-# Decreasing series with the differences being in GP and values should be greater than 100
+# Decreasing series with the differences being in AP and values should be greater than 100
 
 def series(n):
     i = 0

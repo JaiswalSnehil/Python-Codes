@@ -1,3 +1,5 @@
+# Rotate the elements of a list by n positions
+
 def rotate(lst, n):
     return lst[-n:] + lst[:-n]
 

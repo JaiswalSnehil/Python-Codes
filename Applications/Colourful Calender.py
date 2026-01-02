@@ -25,4 +25,4 @@ def colourful_calender(year):
         console.print(table)
         console.print("\n")
 
-colourful_calender(2025)
+colourful_calender(2026)
